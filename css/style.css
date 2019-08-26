@@ -1,0 +1,66 @@
+@media (max-width: 768px) {
+  #showcase {
+    min-height: 500px;
+  }
+
+  #showcase h1 {
+    font-size: 4rem;
+  }
+
+  .mb-resp {
+    font-size: 1rem;
+  }
+}
+
+
+#authors img {
+  margin-top: -50px;
+}
+
+#authors .card:hover {
+  background: #3292a6;
+  color: #fff;
+}
+
+#authors .fab {
+  color: #fff;
+}
+nav .navbar:hover
+{
+  background: #fff;
+}
+
+
+
+
+.carousel-item {
+
+  height: 680px;
+
+
+}
+
+.carousel-image-1 {
+  background-image: url(https://source.unsplash.com/random/x);
+
+
+}
+
+.carousel-image-2 {
+  background-image: url(https://source.unsplash.com/random);
+
+}
+
+.carousel-image-3 {
+  background-image: url(https://source.unsplash.com/random);
+
+}
+
+#main-nav h3 {
+  color: aliceblue;
+}
+
+#main-nav a {
+  font-size: 20px;
+  color: aliceblue;
+}
